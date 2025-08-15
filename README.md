@@ -127,7 +127,7 @@ In Power BI Desktop: **File → Export → Export to PDF** or **Export → PNG**
 
 ---
 
-## 🖼️ Dashboard Gallery (placeholders)
+## 🖼️ Dashboard Gallery 
 
 <img width="1392" height="793" alt="Screenshot 2025-08-15 235420" src="https://github.com/user-attachments/assets/9ecf2815-a26e-4179-8ff6-3912a42ff4d5" />
 
