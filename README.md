@@ -17,29 +17,6 @@ This repo showcases an end‑to‑end analytics workflow:
 
 ---
 
-## 📦 Repo Structure
-
-```
-.
-├── powerbi/
-│   └── Hustle_ADJ.pbix          # Main Power BI report (open with Power BI Desktop)
-├── data/
-│   ├── raw/                     # Raw CSVs from Kaggle (place here)
-│   └── processed/               # Cleaned & merged outputs
-├── sql/
-│   └── cyclist_schema.sql       # Example DDL to create tables in PostgreSQL
-├── notebooks/
-│   └── 01_prepare_data.ipynb    # Optional: Python data prep notebook
-├── assets/
-│   ├── dashboards/              # Exported PNGs of report pages for README gallery
-│   └── logos/
-└── README.md
-```
-
-> Tip: If you only need the dashboards, open `powerbi/Hustle_ADJ.pbix` in **Power BI Desktop**.
-
----
-
 ## 🧰 Tech Stack
 
 - **Power BI Desktop** – interactive dashboards & DAX
