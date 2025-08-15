@@ -66,9 +66,6 @@ CREATE TABLE IF NOT EXISTS cyclist.trips (
 );
 ```
 
-> Load your cleaned CSV into `cyclist.trips` (COPY, \\copy, or a GUI client).
-
----
 
 ## 🧩 Zoho CRM Implementation (high‑level)
 
