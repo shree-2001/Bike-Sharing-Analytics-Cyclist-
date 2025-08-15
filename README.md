@@ -129,12 +129,16 @@ In Power BI Desktop: **File → Export → Export to PDF** or **Export → PNG**
 
 ## 🖼️ Dashboard Gallery (placeholders)
 
-> Replace the image paths after exporting PNGs from Power BI.
+<img width="1392" height="793" alt="Screenshot 2025-08-15 235420" src="https://github.com/user-attachments/assets/9ecf2815-a26e-4179-8ff6-3912a42ff4d5" />
 
-![Usage by Bike Type](assets/dashboards/01_bike_type_usage.png)
-![Member vs Casual Monthly](assets/dashboards/02_member_casual_monthly.png)
-![Station Performance](assets/dashboards/03_station_performance.png)
-![Geo Coverage](assets/dashboards/04_geo_coverage.png)
+<img width="1378" height="750" alt="2" src="https://github.com/user-attachments/assets/27b23bd0-5c35-4fd8-aed9-bfacb2c19261" />
+
+<img width="1373" height="786" alt="3" src="https://github.com/user-attachments/assets/7f0c0db4-fee1-40f5-9dc5-32916b5c5848" />
+
+<img width="1385" height="782" alt="4" src="https://github.com/user-attachments/assets/c4fc9498-942f-4e43-abe8-e5e76dd96e53" />
+
+<img width="1362" height="762" alt="5" src="https://github.com/user-attachments/assets/b22c22ac-9bd2-4c8d-bb10-44c7ad51feeb" />
+
 
 ---
 
@@ -188,20 +192,9 @@ In Power BI Desktop: **File → Export → Export to PDF** or **Export → PNG**
 
 ---
 
-## 📄 License
-
-Choose a license that fits your needs (e.g., MIT).
-
----
 
 ## 🙌 Acknowledgements
 
 - Kaggle dataset providers and community
 - Zoho CRM & Zoho Analytics
 - Microsoft Power BI
-
----
-
-## ✉️ Contact
-
-For questions, please open an **Issue** or reach out via email.
