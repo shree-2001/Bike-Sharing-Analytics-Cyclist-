@@ -123,18 +123,6 @@ In Power BI Desktop: **File → Export → Export to PDF** or **Export → PNG**
 - **Python 3.9+** with `pandas` (optional for data prep)
 - **PostgreSQL 13+** (optional if you want a database layer)
 
-### Quickstart
-1. Clone the repo and open `powerbi/Hustle_ADJ.pbix` in Power BI Desktop.
-2. If using local CSVs, update **Data Source Settings** to point to your `data/processed/` path.
-3. Refresh the model to rebuild visuals.
-
-### Reproduce Data Prep (optional)
-- Use the sample notebook `notebooks/01_prepare_data.ipynb` or your own script to:
-  - Read CSVs from `data/raw/`
-  - Clean & merge
-  - Save curated outputs to `data/processed/`
-  - (Optional) Load into PostgreSQL using `psycopg2` or a GUI tool
-
 ---
 
 ## 🔧 Development Notes
